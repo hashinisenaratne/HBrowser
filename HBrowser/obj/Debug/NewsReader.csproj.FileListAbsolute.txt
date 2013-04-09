@@ -1,0 +1,26 @@
+C:\Documents and Settings\100498G\My Documents\Visual Studio 2008\Projects\NewsReader\NewsReader\bin\Debug\NewsReader.exe
+C:\Documents and Settings\100498G\My Documents\Visual Studio 2008\Projects\NewsReader\NewsReader\bin\Debug\NewsReader.pdb
+C:\Documents and Settings\100498G\My Documents\Visual Studio 2008\Projects\NewsReader\NewsReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\100498G\My Documents\Visual Studio 2008\Projects\NewsReader\NewsReader\obj\Debug\NewsReader.Form1.resources
+C:\Documents and Settings\100498G\My Documents\Visual Studio 2008\Projects\NewsReader\NewsReader\obj\Debug\NewsReader.Properties.Resources.resources
+C:\Documents and Settings\100498G\My Documents\Visual Studio 2008\Projects\NewsReader\NewsReader\obj\Debug\NewsReader.csproj.GenerateResource.Cache
+C:\Documents and Settings\100498G\My Documents\Visual Studio 2008\Projects\NewsReader\NewsReader\obj\Debug\NewsReader.exe
+C:\Documents and Settings\100498G\My Documents\Visual Studio 2008\Projects\NewsReader\NewsReader\obj\Debug\NewsReader.pdb
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\NewsReader\NewsReader\obj\Debug\NewsReader.exe
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\NewsReader\NewsReader\obj\Debug\NewsReader.pdb
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\NewsReader\NewsReader\bin\Debug\NewsReader.exe
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\NewsReader\NewsReader\bin\Debug\NewsReader.pdb
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\NewsReader\NewsReader\obj\Debug\ResolveAssemblyReference.cache
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\NewsReader\NewsReader\obj\Debug\NewsReader.Form1.resources
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\NewsReader\NewsReader\obj\Debug\NewsReader.Properties.Resources.resources
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\NewsReader\NewsReader\obj\Debug\NewsReader.csproj.GenerateResource.Cache
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\Browser\NewsReader\obj\Debug\NewsReader.exe
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\Browser\NewsReader\obj\Debug\NewsReader.pdb
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\Browser\NewsReader\obj\Debug\ResolveAssemblyReference.cache
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\Browser\NewsReader\obj\Debug\NewsReader.Form1.resources
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\Browser\NewsReader\obj\Debug\NewsReader.Properties.Resources.resources
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\Browser\NewsReader\obj\Debug\NewsReader.csproj.GenerateResource.Cache
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\Browser\NewsReader\bin\Debug\NewsReader.exe
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\Browser\NewsReader\bin\Debug\NewsReader.pdb
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\HBrowser\NewsReader\obj\Debug\NewsReader.exe
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\HBrowser\NewsReader\obj\Debug\NewsReader.pdb

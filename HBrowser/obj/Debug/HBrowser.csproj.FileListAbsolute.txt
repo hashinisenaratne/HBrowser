@@ -1,0 +1,16 @@
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\HBrowser\NewsReader\bin\Debug\NewsReader.exe
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\HBrowser\NewsReader\bin\Debug\NewsReader.pdb
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\HBrowser\NewsReader\obj\Debug\ResolveAssemblyReference.cache
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\HBrowser\NewsReader\obj\Debug\HBrowser.csproj.GenerateResource.Cache
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\HBrowser\NewsReader\obj\Debug\NewsReader.exe
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\HBrowser\NewsReader\obj\Debug\NewsReader.pdb
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\HBrowser\NewsReader\obj\Debug\Hbrowser.Form1.resources
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\HBrowser\NewsReader\obj\Debug\Hbrowser.Properties.Resources.resources
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\HBrowser\HBrowser\bin\Debug\Hbrowser.exe
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\HBrowser\HBrowser\bin\Debug\Hbrowser.pdb
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\HBrowser\HBrowser\obj\Debug\ResolveAssemblyReference.cache
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\HBrowser\HBrowser\obj\Debug\Hbrowser.Form1.resources
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\HBrowser\HBrowser\obj\Debug\Hbrowser.Properties.Resources.resources
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\HBrowser\HBrowser\obj\Debug\HBrowser.csproj.GenerateResource.Cache
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\HBrowser\HBrowser\obj\Debug\Hbrowser.exe
+J:\sem3\Programming Challenge1-CS 2202\C#  .Net workshop\HBrowser\HBrowser\obj\Debug\Hbrowser.pdb
